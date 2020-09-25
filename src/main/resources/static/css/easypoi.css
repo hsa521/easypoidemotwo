@@ -1,0 +1,23 @@
+td,th{
+    text-align: center;
+}
+
+/* 当表格中的数据不是垂直居中 用下面的 */
+.table tbody tr td{
+    vertical-align: middle;
+}
+
+#tou{
+    border: 1px solid #666666;
+    padding:10px 40px;
+    background: #fff;
+    border-radius:10px;
+
+    margin-top: 150px;
+}
+
+.pagesInput{
+    text-align: center;
+    width: 20px;
+    border: 0px;
+}
